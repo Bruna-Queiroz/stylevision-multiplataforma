@@ -52,11 +52,11 @@ Utilize o token JWT fornecido após o login para acessar rotas protegidas. O tok
 - Simulação de notificações por tipo (e-mail ou SMS)
 
 ## 📷 Apresentação à Comunidade
-Apresentação realizada via Google Meet com prints anexados no documento de arquitetura. Público-alvo: comunidade local, clientes da ótica e representantes da área de inclusão digital.
+Apresentação realizada via Google Meet com prints anexados no documento de apresentação. Público-alvo: comunidade local, clientes da ótica e representantes.
 
 ## 👨‍🏫 Colaborador Adicionado
 O professor `profmiqueias` foi adicionado como colaborador no repositório GitHub conforme solicitado.
 
 ---
 
-Desenvolvido como parte da disciplina de Projeto Aplicado Multiplataforma.
+Desenvolvido como parte da disciplina de Projeto Aplicado de Multiplataforma Etapa 2.
